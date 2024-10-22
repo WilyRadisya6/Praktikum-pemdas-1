@@ -1,0 +1,11 @@
+nama_wily = input ("Inputkan nama: ")
+kelas_wily = input("Inputkan kelas: ")
+nim_wily = input("Inputkan NIM: ")
+alamat_wily = input("Inputkan alamat: ")
+umur_wily = input("Inputkan umur: ")
+nohp_wily = input("Inputkan nomor HP: ")
+tinggi_wily = int(input("Inputkan tinggi badan (dalam cm): "))
+
+print(nama_wily, "dari kelas", kelas_wily, "dengan NIM", nim_wily)
+print("Beralamat di", alamat_wily, "berumur",umur_wily, "tahun dan tinggi badan", tinggi_wily, "cm")
+print("Nomor HP:",nohp_wily)
